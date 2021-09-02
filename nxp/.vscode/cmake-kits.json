@@ -1,0 +1,6 @@
+[
+    {
+        "name": "Toolchain",
+        "toolchainFile": "${workspaceFolder}/toolchain.cmake"
+    }
+]
